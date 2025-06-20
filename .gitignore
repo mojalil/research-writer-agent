@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+
+# Data
+data/
+
+# Output
