@@ -33,4 +33,7 @@ graph TD
     D --> E;
 ```
 
+## Methodology
+
+We will be have simple , well scoped code blocks and modules. Priotising readibility and minimising excess code. 
 
